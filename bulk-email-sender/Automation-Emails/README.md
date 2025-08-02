@@ -1,2 +1,1 @@
-# Automation Emails
- A desktop GUI application built in Python to send resumes and custom messages to multiple HR contacts in bulk — ideal for freshers/job seekers looking to streamline their job outreach. Features 📄 Send your resume (PDF) to multiple HRs  📬 Compose and send custom emails with subject & body  📊 Load HR contact list from Excel (.xlsx)  🔐 Secure Gmail App Password authentication  ✅ Simple Tkinter-based GUI — no coding needed to run  📁 Works locally, no server or deployment needed
+
